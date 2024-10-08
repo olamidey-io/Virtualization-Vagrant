@@ -131,6 +131,6 @@ DevOps teams ensure high availability by using **load balancing, VM replication,
 * **Monitoring and reporting:** Use cost monitoring tools like AWS Cost Explorer or Azure Cost Management to track and optimize usage.
 
 ## 2. How can DevOps professionals control expenses while ensuring performance and reliability?
-DevOps professionals control expenses while ensuring performance and reliability by using autoscaling to adjust resources based on demand, right-sizing VMs to avoid over-provisioning, and employing cost monitoring tools to track spending. They also use spot instances for non-critical workloads and implement load balancing and clustering to maintain performance and uptime efficiently, all while optimizing resource usage.
+DevOps professionals control expenses while ensuring performance and reliability by using autoscaling to adjust resources based on demand, right-sizing VMs to avoid over-provisioning, and employing cost monitoring tools to track spending. They also use spot instances for non-critical workloads and implement load balancing and clustering to maintain performance and uptime efficiently, all while optimizing resource usage..
 
 
