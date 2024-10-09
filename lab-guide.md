@@ -15,20 +15,20 @@
 
 4. Screenshot of apache default page 
 
-![vagrant-class-up](apache-default-page.PNG)
+![apache-default-page](apache-default-page.PNG)
 
 5. Screenshot of edited apache default page
 
-![vagrant-class-up](edited-apache-default-page.PNG)
+![edited-apache-default-page](edited-apache-default-page.PNG)
 
 6. Screenshot of nginx default page 
 
-![vagrant-class-up](nginx-default-page.PNG)
+![nginx-default-page](nginx-default-page.PNG)
 
 7. Screenshot of edited nginx default page
 
-![vagrant-class-up](edited-nginx-default-page.PNG)
+![edited-nginx-default-page](edited-nginx-default-page.PNG)
 
 8. Screenshot of apache and nginx VM running
 
-![vagrant-class-up](VM-running.PNG)
+![vM-running](VM-running.PNG)
